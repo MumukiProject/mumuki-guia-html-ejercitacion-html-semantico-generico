@@ -9,7 +9,7 @@ Para calendarizar eventos próximos :date: vamos a crear un HTML de la siguiente
   - dada evento es un `article`;
   - debe contener un `h3` con el nombre del evento;
   - debajo del `h3`, debe haber una etiqueta `p` con `lorem ipsum`;
-  - debe contener un `footer` con un elemento `span` que diga, por ejemplo, `Por Ada Lovelace`;
+  - debe contener un `footer` con un elemento `span` que diga, por ejemplo, `Por Alan Turing`;
 - debajo de la `section`, poner otra `section` con 2 eventos y el título `Mañana`.
 
 
