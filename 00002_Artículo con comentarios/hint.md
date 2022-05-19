@@ -1,0 +1,1 @@
+Podés buscar información sobre la etiqueta `time` para saber cómo funciona. :mag:
