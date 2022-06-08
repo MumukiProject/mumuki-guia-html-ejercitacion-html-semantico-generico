@@ -1,7 +1,6 @@
 Vamos a crear un nuevo artículo :raised_hands:, para ello:
 
-- dentro del `body`, poné una etiqueta `main`;
-- dentro de `main`, poné una etiqueta `header`;
+- dentro del `body`, poné una etiqueta `header`;
 - dentro de `header`, poné una etiqueta `h1` con el texto _El mejor artículo del mundo_;
 - arriba de la etiqueta `h1`, poné una etiqueta `div`;
 - dentro del elemento `div`, poné una etiqueta `time` que diga `Una semana atrás` con el atributo `datetime` y una fecha válida;
