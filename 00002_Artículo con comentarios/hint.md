@@ -1,1 +1,1 @@
-Podés buscar información sobre la etiqueta `time` para saber cómo funciona. :mag:
+Podés buscar información sobre la etiqueta [`time`](https://developer.mozilla.org/es/docs/Web/HTML/Element/time) para saber cómo funciona. :mag:
