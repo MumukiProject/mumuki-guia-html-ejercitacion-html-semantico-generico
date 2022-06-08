@@ -5,9 +5,6 @@ expectations:
   inspection: DeclaresTag:body
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
-  inspection: DeclaresTag:main
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: main
   inspection: DeclaresTag:h1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
@@ -27,6 +24,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
   inspection: DeclaresTag:footer
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: footer
-  inspection: DeclaresTag:span
